@@ -32,7 +32,7 @@ testCases:
       "user" : {
         "createdBy" : "{{@Var.createdBy}}",
         "createdDate" : "{{@Var.createdDate}}",
-        "id" : "{{@Var.id}}",
+        "id" : "12323534",
         "inactive" : false,
         "modifiedBy" : "{{@Var.modifiedBy}}",
         "modifiedDate" : "{{@Var.modifiedDate}}",

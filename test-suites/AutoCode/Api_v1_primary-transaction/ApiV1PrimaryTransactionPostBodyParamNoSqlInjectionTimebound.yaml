@@ -23,7 +23,7 @@ testCases:
       "createdBy" : "{{@Var.createdBy}}",
       "createdDate" : "{{@Var.createdDate}}",
       "description" : "{{@Injection}}",
-      "id" : "{{@Var.id}}",
+      "id" : "12323534",
       "inactive" : false,
       "modifiedBy" : "{{@Var.modifiedBy}}",
       "modifiedDate" : "{{@Var.modifiedDate}}",

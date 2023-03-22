@@ -23,7 +23,7 @@ testCases:
       "createdBy" : "{{@Var.createdBy}}",
       "createdDate" : "{{@Var.createdDate}}",
       "description" : "{{@Injection}}",
-      "id" : "{{@Var.id}}",
+      "id" : "12323534",
       "inactive" : false,
       "modifiedBy" : "{{@Var.modifiedBy}}",
       "modifiedDate" : "{{@Var.modifiedDate}}",
@@ -71,7 +71,7 @@ policies:
   timeoutSeconds: 300
   repeatOnFailure: 0
   repeat: 0
-  repeatModule: '@FXLabs/Common/XSS_Injection'
+  repeatModule: '@APIsec/Common/XSS_Injection'
   repeatDelay: 0
   unmaskToken: false
   postExecutionDelay: 0
